@@ -15,6 +15,7 @@ Keywords extraction code is mostly taken from [Kavita Ganesan post](https://kavi
 The code and further details are in the `pornhub_keywords.ipynb` notebook.
 
 ## Results
+Results are at [pornhub_keywords_per_country.csv](https://github.com/mathigatti/PornHubPerCountry/blob/master/pornhub_keywords_per_country.csv)
 
 |country|keyword_0     |keyword_1     |keyword_2 |keyword_3      |keyword_4 |keyword_5   |keyword_6 |keyword_7  |keyword_8 |keyword_9|keyword_10  |keyword_11   |keyword_12 |keyword_13  |keyword_14|
 |-------|--------------|--------------|----------|---------------|----------|------------|----------|-----------|----------|---------|------------|-------------|-----------|------------|----------|
