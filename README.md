@@ -12,7 +12,7 @@ Keywords extraction code is mostly taken from [Kavita Ganesan post](https://kavi
 - jupyter lab or jupyter notebook
 
 ## Usage
-The code and further details are in the `pornhub_keywords.ipynb` notebook.
+The code and further details are in the [pornhub_keywords.ipynb](https://github.com/mathigatti/PornHubPerCountry/blob/master/pornhub_keywords.ipynb) notebook. You can run it with jupyter lab or remotely using google colab.
 
 ## Results
 Results are at [pornhub_keywords_per_country.csv](https://github.com/mathigatti/PornHubPerCountry/blob/master/pornhub_keywords_per_country.csv)
