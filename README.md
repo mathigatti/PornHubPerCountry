@@ -1,5 +1,7 @@
 # PornHubPerCountry
-Comparing keywords used on video titles per country using TF-IDF. TF-IDF code is mostly taken from [Kavita Ganesan post](https://kavita-ganesan.com/extracting-keywords-from-text-tfidf/).
+Comparing keywords used on video titles per country using TF-IDF.
+
+Keywords extraction code is mostly taken from [Kavita Ganesan post](https://kavita-ganesan.com/extracting-keywords-from-text-tfidf/).
 
 ## Requirements
 
